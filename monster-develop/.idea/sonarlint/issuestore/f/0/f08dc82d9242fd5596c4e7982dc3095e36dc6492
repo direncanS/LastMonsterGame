@@ -1,0 +1,13 @@
+
+k
+java:S1104"PMake conn a static final constant or non-public and provide accessors if needed.(€ÙÄ§þÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(ùó§òùÿÿÿÿ
+<
+java:S1170	"!Make this final field static too.(°×î«ûÿÿÿÿ
+<
+java:S1170
+"!Make this final field static too.(ºÄÌÚûÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(³•Ò²ýÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ÞÚÛúÿÿÿÿ

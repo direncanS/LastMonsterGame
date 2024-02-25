@@ -1,0 +1,8 @@
+
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ШЅ‘D8ЫшХЦЭ1
+u	java:S116"YRename this field "cardToTrade_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Їю8вшХЦЭ1
+s	java:S116"RRename this field "user_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(љЦпйяяяяя8вшХЦЭ1
+U
+java:S1128"3Remove this unused import 'com.example.model.Card'.(Ыя­њыяяяя8а…гЭ1
+S
+java:S1128"1Remove this unused import 'java.io.Serializable'.(игоВяяяяя8а…гЭ1

@@ -1,0 +1,11 @@
+
+\
+java:S11920"FDefine a constant instead of duplicating this literal "coins" 3 times.(³‹ì§
+\
+java:S1192."FDefine a constant instead of duplicating this literal "passw" 3 times.(¥½ë‹
+d
+java:S1192/"IDefine a constant instead of duplicating this literal "username" 3 times.(øè·´ûÿÿÿÿ
+Q	java:S1251"<This block of commented-out lines of code should be removed.(¯Ç«Ü
+E	java:S1066"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ
+Q	java:S125J"<This block of commented-out lines of code should be removed.(¯Ç«Ü
+E	java:S106m"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ

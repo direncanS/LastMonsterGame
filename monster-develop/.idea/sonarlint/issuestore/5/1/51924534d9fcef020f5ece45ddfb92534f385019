@@ -1,0 +1,16 @@
+
+C
+java:S5411T"(Use a primitive boolean expression here.(®ÝÐÈþÿÿÿÿ
+C
+java:S5411]"(Use a primitive boolean expression here.(®ÝÐÈþÿÿÿÿ
+q	java:S116"WRename this field "CONTENT_TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šú€³ýÿÿÿÿ
+n	java:S116"YRename this field "CONTENT_LENGTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÊ«ï
+<
+java:S1170"!Make this final field static too.(Šú€³ýÿÿÿÿ
+7
+java:S1170"!Make this final field static too.(ÙÊ«ï
+h
+java:S3776!"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(†öªß
+V	java:S125$"<This block of commented-out lines of code should be removed.(½ï÷éøÿÿÿÿ
+S
+java:S1117@"8Rename "body" which hides the field declared at line 21.(×Ì Þýÿÿÿÿ

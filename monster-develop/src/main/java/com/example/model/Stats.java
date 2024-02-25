@@ -1,0 +1,10 @@
+package com.example.model;
+
+import com.fasterxml.jackson.annotation.JsonAutoDetect;
+
+import java.io.Serializable;
+
+@JsonAutoDetect(fieldVisibility = JsonAutoDetect.Visibility.ANY)
+public class Stats {
+
+}

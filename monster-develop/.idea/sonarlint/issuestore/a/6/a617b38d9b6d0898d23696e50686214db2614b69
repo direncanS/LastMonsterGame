@@ -1,0 +1,10 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…±ÀŠøÿÿÿÿ
+l
+java:S2095+"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(©ßµ8áİƒãİ1
+l
+java:S2095G"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(©ßµ8ßİƒãİ1
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¹ıŒ˜ıÿÿÿÿ8àİƒãİ1
+U
+java:S1128"8Remove this unused import 'com.example.server.Sessions'.(´ÃÔÜ8éå„ãİ1

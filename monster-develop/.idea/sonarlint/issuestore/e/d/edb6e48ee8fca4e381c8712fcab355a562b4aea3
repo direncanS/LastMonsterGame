@@ -1,0 +1,16 @@
+
+k	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿƒ˜¿ıÿÿÿÿ
+k	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿƒ˜¿ıÿÿÿÿ
+g	java:S117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ß¾»
+l	java:S116+"WRename this field "games_played" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘è‹¹
+H
+java:S1948#"&Make "deck" transient or serializable.(ÏŒ€øÿÿÿÿ8¦æÁãİ1
+L
+java:S1948$"*Make "packages" transient or serializable.(Ñ¼±¯ùÿÿÿÿ8§æÁãİ1
+I
+java:S1948&"'Make "stats" transient or serializable.(º§¥‹ÿÿÿÿÿ8¨æÁãİ1
+O
+java:S1948'"-Make "scoreBoards" transient or serializable.(‡¾…Æøÿÿÿÿ8¨æÁãİ1
+h	java:S100q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ß­Æüÿÿÿÿ
+h	java:S100w"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šµØ€üÿÿÿÿ
+i	java:S100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èó¶úÿÿÿÿ
